@@ -16,4 +16,4 @@ Pre-req : Configure CirclCI with AWS credentials in environment variables.
 Run build-deploy-workflow to update the lambda function in AWS. 
 
 ## CircleCI
-1. build_deploy_workflow: It will update the lambda function in AWS.
+build_deploy_workflow: It will update the lambda function in AWS.
